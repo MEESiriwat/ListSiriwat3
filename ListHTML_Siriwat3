@@ -1,0 +1,109 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+    <h1>สาขาที่เปิดสอน</h1>
+    <hr>
+    <h2>หลักสูตรประกาศนียบัตรวิชาชีพ (ปวช.)</h2>
+    <!--ปกติ ปวช-->
+    <h2><ins>ระบบปกติ</ins></h2>
+    <ul>
+        <li><ins>ประเภทวิชาพาณิชยกรรม</ins>
+            <ul style="list-style-type:circle;">
+                <li>สาขาเทคโนโลยีสารสนเทศ</li>
+                <li>สาขาวิชาการบัญชี</li>
+                <li>สาขาการตลาด</li>
+                <li>สาขาโลจิสติกส์</li>
+            </ul>
+        </li>
+    </ul>
+    <ul>
+        <li><ins>ประเภทวิชาอุคสาหกรรมท่องเที่ยว</ins>
+            <ul style="list-style-type:circle;">
+                <li>สาขาวิชาการท่องเที่ยว</li>
+            </ul>
+        </li>
+    </ul>
+    <ul>
+        <li><ins>ประเภทวิชาเทคโนโลยีสารสนเทศและการสื่อสาร</ins>
+            <ul style="list-style-type:circle;">
+                <li>สาขาวิชาเทคโนโลยีสารสนเทศ</li>
+            </ul>
+        </li>
+    </ul>
+    <!--ทวิ ปวช-->
+    <h2><ins>ระบบทวิภาคี</ins></h2>
+    <ul>
+        <li><ins>ประเภทวิชาพาณิชยกรรม</ins>
+            <ul style="list-style-type:circle;">
+                <li>สาขาตอมพิวเตอร์ธุรกิจ</li>
+                <li>สาขาธุรกิจค้าปลีก</li>
+            </ul>
+        </li>
+    </ul>
+    <hr>
+    <h2>หลังสูตรประกาศนียบัตรวิชาชีพขั้นสูง (ปวส.)</h2>
+    <hr>
+    <!--ปกติ ปวส-->
+    <h2><ins>ระบบปกติ</ins></h2>
+    <ul>
+        <li><ins>ประเภทวิชาบริหารธุรกิจ</ins>
+            <ul style="list-style-type:circle;">
+                <li>สาขาวิชาการบัญชี</li>
+                <li>สาขาการตลาด</li>
+                <li>สาขาวิชาเทคโนโลยีสารสนเทศ</li>
+            </ul>
+        </li>
+    </ul>
+    <ul>
+        <li><ins>ประเภทวิชาอุคสาหกรรมท่องเที่ยว</ins>
+            <ul style="list-style-type:circle;">
+                <li>สาขาวิชาการท่องเที่ยว</li>
+            </ul>
+        </li>
+    </ul>
+    <ul>
+        <li><ins>ประเภทวิชาเทคโนโลยีสารสนเทศและการสื่อสาร</ins>
+            <ul style="list-style-type:circle;">
+                <li>สาขาวิชาเทคโนโลยีสารสนเทศ</li>
+            </ul>
+        </li>
+    </ul>
+    <!--ทวิ ปวส-->
+    <h2><ins>ระบบทวิภาคี</ins></h2>
+    <ul>
+        <li><ins>ประเภทวิชาบริหารธุรกิจ</ins>
+            <ul style="list-style-type:circle;">
+                <li>สาขาวิชาการบัญชี</li>
+                <li>สาขาวิชาการตลาด</li>
+                <li>สาขาวิชาเทคโนโลยีธุรกิจดิจิทัล</li>
+                <li>สาขาวิชาการจัดการโลจิสติกส์และซัพพลายเชน</li>
+            </ul>
+        </li>
+    </ul>
+    <!--ทวิวุฒิ ไทยจีน-->
+    <h2><ins>ทวิวุฒิ ไทย-จีน</ins></h2>
+    <ul>
+        <li><ins>ประเภทวิชาบริหารธุรกิจ</ins>
+            <ul style="list-style-type:circle;">
+                <li>สาขาวิชาการจัดการโลจิสติกส์และซัพพลายเชน กรณีมีทักษะภาษาจีน วิทยาลัย จะพิจารณาเป็นพิเศษ</li>
+            </ul>
+        </li>
+    </ul>
+    <!--ภาคสมทบ-->
+    <h2><ins>ภาคสมทบ</ins></h2>
+    <ul>
+        <li><ins>ประเภทวิชาบริหารธุรกิจ</ins>
+            <ul style="list-style-type:circle;">
+                <li>สาขาการตลาด</li>
+                <li>สาขาวิชาเทคโนโลยีธุรกิจดิจิทัล</li>
+            </ul>
+        </li>
+    </ul>
+</body>
+</html>
